@@ -13,6 +13,8 @@
 
 > two most common ways to achieve a competitive advantage: `cost leadership` and `differentiation`
 
+![Cost-Price-WillingnessToPay](.gitbook/assets/image.png)
+
 ### Business Strategy: conclusion
 
 * building a business strategy `isn’t about formulating and executing a perfect plan`
