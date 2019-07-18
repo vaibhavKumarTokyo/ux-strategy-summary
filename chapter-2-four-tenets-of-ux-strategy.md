@@ -21,6 +21,8 @@
 * it’s about being able to research what’s out there, analyze the opportunities, run structured experiments, fail, learn, and iterate until we devise something of value that people truly want
 * as the product scales and the market evolves, the business strategy must be nimble
 
+![Intentional-strategy v/s emergent-strategy](.gitbook/assets/image%20%281%29.png)
+
 ## UX strategy framework: Value Innovation
 
 Value Innovation = The simultaneous pursuit of `differentiation` and `low cost`” - Inspired by Blue Ocean Strategy
