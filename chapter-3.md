@@ -2,7 +2,7 @@
 
 Most startups fail because the market doesn't necessarily need the product.
 
-You need to ground your team in reality with empirical evidence. You must turn assumptions into fact.
+> You need to ground your team in reality with empirical evidence. You must turn assumptions into fact.
 
 ## **What is Value Proposition?**
 
