@@ -6,7 +6,7 @@ You need to ground your team in reality with empirical evidence. You must turn a
 
 ## **What is Value Proposition?**
 
-“This” for “that”.
+> “This” for “that”.
 
 This is the magical power of the product.  ****That is the specific customer segment and its need.
 
