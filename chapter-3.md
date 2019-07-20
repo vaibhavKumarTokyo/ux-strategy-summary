@@ -20,7 +20,9 @@ _The customer is a group of segment of people with a common need or pain._
 
 ### **Step 2: Identify your customer segment’s biggest problem**
 
-Make assumptions about your users, their needs, and how to solve them. And acknowledge that you are working on assumptions.
+Make assumptions about your users, their needs, and how to solve them.
+
+> \`And acknowledge that you are working on assumptions.
 
 Write out the customer and problem hypothesis.
 
@@ -50,7 +52,7 @@ What motivates the customer and causes her to act a certain way. What is missing
 
 Customer discovery is a process used to discover, test, and validate whether a specific product solves a known problem for an identifiable group of users.
 
-You must get out of the building and get customer validation, which is foundational to the Lean Startup business approach.
+You must get out of the building and get customer validation, which is foundational to the _Lean Startup business_ approach.
 
 **The Problem Interview**
 
@@ -66,7 +68,7 @@ Questions to weed out the wrong people.
 
 Context questions set up the context for your solution.
 
-Money-shot questions validate or invalidate your hypothetical value proposition.  
+`Money-shot questions` validate or invalidate your hypothetical value proposition.  
 
 
 ### **Step 5: Reassess your value proposition based on what you learned \(And continue to iterate until you have product/market fit\)**
