@@ -24,8 +24,9 @@ Make assumptions about your users, their needs, and how to solve them. And ackno
 
 Write out the customer and problem hypothesis.
 
-Don’t build your product’s UX around a value proposition unless you have tangible evidence that people will want the product.  
+Don’t build your product’s UX around a value proposition unless you have tangible evidence that people will want the product.
 
+> find common `job-to-be-done`
 
 ### **Step 3: Create provisional personas based on your assumptions**
 
