@@ -8,16 +8,15 @@ You need to ground your team in reality with empirical evidence. You must turn a
 
 > “This” for “that”.
 
-This is the magical power of the product.  ****That is the specific customer segment and its need.
+This is the magical power of the product.  ****That is the specific customer segment and their need.
 
 ## **Five Steps to reach Product/Solution Fit**
 
 ### **Step 1: Define your primary customer segment**
 
-The customer is a group of segment of people with a common need or pain.
+_The customer is a group of segment of people with a common need or pain._
 
-Describe in 10 words or fewer a set of people whom you can zero-in.  
-
+> Describe in 10 words or fewer a set of people whom you can zero-in.
 
 ### **Step 2: Identify your customer segment’s biggest problem**
 
