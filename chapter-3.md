@@ -10,6 +10,8 @@ Most startups fail because the market doesn't necessarily need the product.
 
 This is the magical power of the product.  ****That is the specific customer segment and their need.
 
+![Visualization of value proposition](.gitbook/assets/image%20%282%29.png)
+
 ## **Five Steps to reach Product/Solution Fit**
 
 ### **Step 1: Define your primary customer segment**
@@ -22,7 +24,7 @@ _The customer is a group of segment of people with a common need or pain._
 
 Make assumptions about your users, their needs, and how to solve them.
 
-> \`And acknowledge that you are working on assumptions.
+> And acknowledge that you are working on assumptions.
 
 Write out the customer and problem hypothesis.
 
@@ -77,5 +79,5 @@ Context questions set up the context for your solution.
 
 Value propositions of products evolve with a great understanding of customers’ needs.
 
-
+![customer-value-assumption-validation](.gitbook/assets/image%20%283%29.png)
 
