@@ -4,4 +4,5 @@
 * [Chapter 1: What is UX Strategy ?](chapter-1-what-is-ux-strategy.md)
 * [Chapter 2: Four tenets of UX strategy ?](chapter-2-four-tenets-of-ux-strategy.md)
 * [Chapter 3: Validating the Value Proposition](chapter-3.md)
+* [Chapter 4: Conducting Competitive Research](chapter-4.md)
 
