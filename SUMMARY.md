@@ -6,4 +6,7 @@
 * [Chapter 3: Validating the Value Proposition](chapter-3.md)
 * [Chapter 4: Conducting Competitive Research](chapter-4.md)
 * [Chapter 5: Conducting Competitive Analysis](chapter-5-conducting-competitive-analysis.md)
+* [Chapter 6: Storyboarding Value Innovation](chapter-6-storyboarding-value-innovation.md)
+* [Chapter 7: Creating Prototypes for Experiments](chapter-7-creating-prototypes-for-experiments.md)
+* [Chapter 8: Conducting Guerrilla User Research](chapter-8-conducting-guerrilla-user-research.md)
 
