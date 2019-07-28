@@ -1,4 +1,4 @@
-# Chapter 4 Conducting Competitive Research
+# Chapter 4: Conducting Competitive Research
 
 ## Goal:
 
