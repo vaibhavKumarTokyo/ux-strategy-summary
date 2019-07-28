@@ -2,7 +2,7 @@
 description: 'book summary per chapters compiled by Bundo, Rui and Vaibhav'
 ---
 
-# UX Strategy: How to Devise Innovative Digital Products that People Want
+# UX Strategy: How to Devise Innovative Digital Products that People Want \(Jaime Levy\)
 
 * [Chapter 1: What is UX Strategy?](chapter-1-what-is-ux-strategy.md)
 * [Chapter 2: Four tenets of UX Strategy](chapter-2-four-tenets-of-ux-strategy.md)
