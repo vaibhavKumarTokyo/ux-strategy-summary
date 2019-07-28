@@ -65,65 +65,49 @@ Example: Airbnb for wedding venue.
 
 ### How and what to Ask during research
 
-1. Purpose of site: 
-   1. 1. * About ot About Us
-         * Crunchbase
-         * iTunes or Google Play App
-         * Social Networks
-         * Online annual report
-
-   * 
-2. Year founded
-   1. * What players are new to the market or have been on the market for a while
-3. Funding rounds
-   1. * Crunchbase or the official website of the product
-4. Revenue streams
-   1. * Spend more time as a user on the website to find what is valuable for the product \(what you pay as a user is the valuable service of the product\)
-      * Annual report
-      * Membership fee
-5. Monthly traffic
-   1. * Compete.com
-      * Quantcast
-      * Alexa
-      * App Annie
-      * App figures
-      * Mopapp
-      * Distimo
-      * _**Appflier?**_
-6. of SKUs /Videos/Articvles/listings
-   1. * What is the total result of one product
-      * Is it acturally offering what it is promising to the user
-7. Primary category
-   1. * What are the most active/popular/selling categories
-8. Social Networks
-   1. * Twitter, Facebook, Instagram, Pinterest, etc.
-9. Content types
-   1. 1. * Photos, Text, Video
-10. Personalization Features
-11. Community/UGC features
-    1. 
-12. * Search for similar products by putting in keywords that Target user use for searching this product.
-13. 1. 1. 1. * 
-
-    Competitive advantage
-    1. * Search for similar products by putting in keywords that Target user use for searching this product.
-14. Heuristic evaluation
-    1. * Search for similar products by putting in keywords that Target user use for searching this product.
-15. Customer review
-    1. * Search for similar products by putting in keywords that Target user use for searching this product.
-
-12. Competitive advantage
-
-1. * a combination of attributes that make the product is better
-
-13. Heuristic evaluation
-
-1. * Experimentation and trial-by-error
-   * how does this product work for you as a user \(Easy to use? Consistent style of design\)
-
-14. Customer review
-
-1. * Quara for advice from general public
+* Purpose of site: 
+  * About ot About Us
+  * Crunchbase
+  * iTunes or Google Play App
+  * Social Networks
+  * Online annual report
+* Year founded
+  * What players are new to the market or have been on the market for a while
+* Funding rounds
+  * Crunchbase or the official website of the product
+* Revenue streams
+  * Spend more time as a user on the website to find what is valuable for the product \(what you pay as a user is the valuable service of the product\)
+  * Annual report
+  * Membership fee
+* Monthly traffic
+  * Compete.com
+  * Quantcast
+  * Alexa
+  * App Annie
+  * App figures
+  * Mopapp
+  * Distimo
+  * Appflier
+* of SKUs /Videos/Articles/listings
+  * What is the total result of one product
+  * Is it actually offering what it is promising to the user
+* Primary category
+  * What are the most active/popular/selling categories
+* Social Networks
+  * Twitter, Facebook, Instagram, Pinterest, etc.
+* Content types
+  * Photos, Text, Video
+* Personalization Features
+* Community/UGC features
+  * Search for similar products by putting in keywords that Target user use for searching this product.
+* Competitive advantage
+  * Search for similar products by putting in keywords that Target user use for searching this product.
+  * a combination of attributes that make the product is better
+* Customer review
+  * Quora for advice from general public
+* Heuristic evaluation
+  * Experimentation and trial-by-error
+  * how does this product work for you as a user \(Easy to use? Consistent style of design\)
 
 ### What does a killer UX design look like:
 
