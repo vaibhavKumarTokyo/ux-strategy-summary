@@ -16,7 +16,7 @@
 * The color code should be used sparingly to highlight things that are crucial to remember, like green: strong attribute, yellow: weak attribute etc.
 * Sample:
 
-![Attributes cell highlights of CRS \(rows: competitors, columns: their attributes\)](.gitbook/assets/image%20%284%29.png)
+![Attributes cell highlights of CRS \(rows: competitors, columns: their attributes\), from the book](.gitbook/assets/image%20%284%29.png)
 
 ### Step 2: Creating logical groupings for comparison
 
@@ -50,12 +50,39 @@ Here these should be answered:
 
 ### Step 4: Writing the Competitive Analysis Findings Brief
 
-* First, you should be able to answer the following questions about the marketplace: Which competitors are closest to delivering a similar value proposition \(that is, an online shopping site featuring high-end brands\)? Are their products failing? Why? Or are their products succeeding so well that there’s no room for your product? Which competitors directly appeal to your customer segment \(wealthy men\)? Of those competitors, how do you think customers discover them \(perhaps paid advertising\)? What products offer the best user experiences and business models? Who is doing something unique? What is working well for them? What do they have that your users like?
-* Second, you need to address in the brief if there’s room in the market for your product. What opportunities exist for it? What gaps could it fill? Perhaps your market research and analysis have shown you that your team has hit the entrepreneurial jackpot. Perhaps your product is one or all of the following: First-to-market with something unique \(such as Pinterest\) Offers users a better method to use or save time or finances \(Amazon Prime saves customers from having to waste time running errands.\) Creates value simultaneously for two different customer segments \(Airbnb does so for hosts and guests; Eventbrite for event planners and attendees.\) This is a blue ocean.
+* First, you should be able to answer the following questions about the marketplace:
+  *  Which competitors are closest to delivering a similar value proposition ? 
+  * Are their products failing? Why? Or are their products succeeding so well that there’s no room for your product?
+  *  Which competitors directly appeal to your customer segment? Of those competitors, how do you think customers discover them \(perhaps paid advertising\)? 
+  * What products offer the best user experiences and business models? 
+  * Who is doing something unique? 
+  * What is working well for them? 
+  * What do they have that your users like?
+* Second, you need to address in the brief _**if there’s room in the market for your product**_.
+  * What opportunities exist for it?
+  *  What gaps could it fill? 
+  * Perhaps your market research and analysis have shown you that your team has hit the entrepreneurial jackpot. 
+    * Perhaps your product is one or all of the following: First-to-market with something unique \(such as Pinterest\) 
+    * Offers users a better method to use or save time or finances \(Amazon Prime saves customers from having to waste time running errands.\) 
+    * Creates value simultaneously for two different customer segments \(Airbnb does so for hosts and guests; Eventbrite for event planners and attendees.\) 
+    * _This is a blue ocean._
 
 {% hint style="info" %}
 A blue ocean is full of customers with unmet needs. A red ocean is a market full of sharks fighting for the fish. In writing your brief, you must be able to say with certainty whether your product is in a blue, red, or somewhere-in-between purple ocean
 {% endhint %}
 
+#### Findings Brief format
 
+* Section 1: Introduction/Goals
+* Section 2: Direct Competitors
+* Section 3: Indirect Competitors
+* Section 4: Cool Features from Influencers
+* Section 5: Taking a stand/Your Recommendations
+  * Is this an expensive endeavor to take on or are there ways to de-risk the vision by experimenting with Minimum Viable Products \(MVPs\)?
+  * Should the team pivot on the customer or its problem?
+  * Does more research need to be conducted to really know if the value proposition is viable, such as with Guerrilla User Research or using landing page A/B tests?
+
+![](.gitbook/assets/image%20%286%29.png)
+
+![](.gitbook/assets/image%20%285%29.png)
 
