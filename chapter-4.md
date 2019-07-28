@@ -1,4 +1,4 @@
-# Chapter 4: Conducting Competitive Research
+# Chapter 4 Conducting Competitive Research
 
 ## Goal:
 
@@ -21,7 +21,7 @@ Killer UX design with just a slightly different shade of color \(**Nuance**\)
 1. First-hand knowledge of good and bad user experience
 2. Keep track of everything
 3. Cloud-based Google Spreadsheet: share with teammate
-4. 
+
 ## Who are the competitors
 
 ### Direct Competitors:
@@ -36,13 +36,13 @@ Or your customer base is using an aspect of an indirecr competitor's interface t
 
 \(People often use products or combinations of products in ways that the product makers do not expect\)
 
-Example: Airbun for wedding venue.
+Example: Airbnb for wedding venue.
 
 ### How to find Competitors
 
 1. Ask users, stakeholders, client, investors, and other product owners.
 2. Tool: Google-generalized research, Yahoo
-   * Search for similar products by putting in keywords that Target user use for searching this product.
+   *  Putting in keywords that Target user use 
 3. Niche media sites or blog--Top 10 list
 4. Crunchbase: collates the largest dataset of startup activity
 5. Google Adwords 
@@ -112,21 +112,26 @@ Example: Airbun for wedding venue.
 15. Customer review
     1. * Search for similar products by putting in keywords that Target user use for searching this product.
 
-### Note:
+12. Competitive advantage
 
-1. General/miscellaneous notes
-   1. * Search for similar products by putting in keywords that Target user use for searching this product.
-2. Questions/notes to team or self
-   1. * Search for similar products by putting in keywords that Target user use for searching this product.
-3. Analysis
+1. * a combination of attributes that make the product is better
+
+13. Heuristic evaluation
+
+1. * Experimentation and trial-by-error
+   * how does this product work for you as a user \(Easy to use? Consistent style of design\)
+
+14. Customer review
+
+1. * Quara for advice from general public
+
+### What does a killer UX design look like:
+
+* Design enhancement
+* Simplicity
+* Cost
+* _**Tag team**_
+* UX innovation
 
 
 
-1. 2. 3. 
-* 
-1. 
-* * 
-1. 2. 3. 4. 
-
-
-1. 2. 3. 4. 5. 
