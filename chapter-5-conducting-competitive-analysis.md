@@ -16,7 +16,7 @@
 * The color code should be used sparingly to highlight things that are crucial to remember, like green: strong attribute, yellow: weak attribute etc.
 * Sample:
 
-![Attributes cell highlights of CRS \(rows: competitors, columns: their attributes\), from the book](.gitbook/assets/image%20%284%29.png)
+![Attributes cell highlights of CRS \(rows: competitors, columns: their attributes\), from the book](.gitbook/assets/image%20%288%29.png)
 
 ### Step 2: Creating logical groupings for comparison
 
@@ -82,7 +82,17 @@ A blue ocean is full of customers with unmet needs. A red ocean is a market full
   * Should the team pivot on the customer or its problem?
   * Does more research need to be conducted to really know if the value proposition is viable, such as with Guerrilla User Research or using landing page A/B tests?
 
+#### Finding Brief sample \(from book\)
+
+![](.gitbook/assets/image.png)
+
+![](.gitbook/assets/image%20%287%29.png)
+
+![](.gitbook/assets/image%20%282%29.png)
+
 ![](.gitbook/assets/image%20%286%29.png)
 
 ![](.gitbook/assets/image%20%285%29.png)
+
+![](.gitbook/assets/image%20%283%29.png)
 

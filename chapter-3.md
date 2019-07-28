@@ -10,7 +10,7 @@ Most startups fail because the market doesn't necessarily need the product.
 
 This is the magical power of the product.  ****That is the specific customer segment and their need.
 
-![Visualization of value proposition](.gitbook/assets/image%20%282%29.png)
+![Visualization of value proposition](.gitbook/assets/image%20%2812%29.png)
 
 ## **Five Steps to reach Product/Solution Fit**
 
@@ -79,5 +79,5 @@ Context questions set up the context for your solution.
 
 Value propositions of products evolve with a great understanding of customers’ needs.
 
-![customer-value-assumption-validation](.gitbook/assets/image%20%283%29.png)
+![customer-value-assumption-validation](.gitbook/assets/image%20%281%29.png)
 
