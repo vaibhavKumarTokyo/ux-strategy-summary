@@ -2,9 +2,11 @@
 
 ## Why you do it?
 
-* IF YOUR GOAL IS TO INVENT, YOU NEED TO LOOK FOR THE BENEFITS that will make your product indispensable to users.
-* You must break out the UX moments that need to show incredible value before you move into a formal design phase.
-* You need to mash up the principles of Tenet 2, Value Innovation, with Tenet 4, Killer UX.
+* IF YOUR GOAL IS TO INVENT, YOU NEED TO LOOK FOR THE **BENEFITS that will make your product indispensable to users**.
+* You must break out the UX moments that need to show **incredible value** before you move into a formal design phase.
+* You need to mash up the principles of **Value Innovation** with **Killer UX**.
+* Storyboard are not deliverables. It's about using design hacks to focus on your team sharply on identifying and maximizing your product's potential value innovation.
+* It's about accelerating your thinking through your product's ultimate value proposition.
 
 ## Techniques for Value Innovation Discovery
 
@@ -14,7 +16,7 @@ Your future customers need to want to choose your solution over any other becaus
 2. it solves a pain point they didn't know they had, and/or
 3. it creates an undeniable desire where none existed before.
 
-The value innovation in your value proposition manifests itself as a unique feature set.
+#### Four patterns of value innovation:
 
 * The product offers a new mash-up of features from competitors and relevant UX influencers.
 * The product provides an innovative "slice" or a twist to a value proposition from existing larger platforms.
@@ -72,4 +74,52 @@ The value innovation in your value proposition manifests itself as a unique feat
 * You can recognize the patterns and common ways for helping users accomplish their goals.
 * You can avoid creating something totally new and make the UI more complicated.
 * You can deal with insane stakeholders or a HIPPO.
+
+### STORYBOARD THE VALUE INNOVATION
+
+#### Three steps to storyboarding value innovation
+
+* The goal of a storyboard is to tell the story of your key experiences visually.
+
+#### Step 1: Create you list of panels
+
+* Show the most valuable moments of your customer's journey through the storyboard panels.
+* Show the progression of the entire experience regardless of whether the experience takes 20 minutes or two months in real time.
+
+####  Step 2: Decide on your visual format \(digital montages versus sketching on paper\)
+
+* Choose a format that is fast and easy for you and your team to pull your storyboard together.
+* Create, draw, or gather all your images and make certain that they are the same approximate aspect ratio and that they fit nicely onto your canvas.
+
+#### Step 3: Lay out your storyboard on a canvas, add captions below each panel.
+
+* Now, review your storyboard.
+* Keep the captions brief and in lower cases--less than two lines.
+
+## Business Models and Value Innovation
+
+* Value innovation is a competitive advantage that ultimately combines cost leadership with differentiation.
+* Killer UX is related to business model, and vice versa.
+
+#### eHarmony
+
+* Its business model is based on a monthly subscription service.
+* Its value proposition relies on its matching algorithm which focuses on the core traits of its clients, such as agreeableness, spirituality, and exroversion.
+
+#### OkCupid
+
+* Its business model is free to customers, and over time, its revenue stream evolved from paid advertising to a premium feature service.
+* Its value proposition is intrinsically wrapped up in a powerful by which users can filter matches based on qualitative and quantitativbe data points.
+
+#### Tinder
+
+* Its business model is based on selling targeted advertising and a paid membership.
+* Its value proposition is all about ease-of-use and immediacy.
+* Key experience \#1: Users are constantly served up cards that are only curated by distance, age, and gender.
+* Key experience \#2: Tinder provides matches within a one-mile radius.
+
+> All these products have completely distinct user experiences and business models.  
+> They all have had undeniable success competing in the same customer pool.
+
+#### What makes each of them innovative is its unique way of hooking users through a permutation of features and business model components through their finely tuned different parts.
 
