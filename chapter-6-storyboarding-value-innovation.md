@@ -57,3 +57,19 @@ The value innovation in your value proposition manifests itself as a unique feat
 * You'll catch clues by looking at all the details and figuring out how to use them for you product.
 * Ideally, you will improve on the concepts, taking them up a notch on the design ladder for your product.
 
+### DO FEATURE COMPARISONS
+
+* Research and identify multiple \(three to five\) instances of a similar user feature and put all those references into once document. This way, you can compare different approaches to a single UX problem.
+* A feature comparison can be very helpful to identify opportunities for value innovation. It takes all the puzzle pieces out of the box and puts them onto the table in plain sight.
+* Then, you pick out the best pieces and components to build a new interaction pattern.
+* You do whatever is necessary to poach elements and them stich them together a superior UX.
+
+#### Benefits of feature comparisons
+
+* You can observe and quantify best practices and lame practices and interesting approaches the competitors are creating for users to accomplish tasks with formal or newfangled design patterns.
+* You can save endless design hours. You don't have to design the new project from scratch, because you don't to reinvent the wheel.
+* You can see the common user flows through the apps so that you can quickly make an application or site map.
+* You can recognize the patterns and common ways for helping users accomplish their goals.
+* You can avoid creating something totally new and make the UI more complicated.
+* You can deal with insane stakeholders or a HIPPO.
+
