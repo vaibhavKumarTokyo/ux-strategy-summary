@@ -50,5 +50,10 @@ The value innovation in your value proposition manifests itself as a unique feat
 
 ### TAKE ADVANTAGE OF UX INFLUENCERS
 
+> UX influencers are any cool or relevant UX features or findings about the marketplace that might not come from competitors. They are not in your product's competitive landscape but could offer insight into your product's value innovation.
 
+* Their user experiences and features can provide insight into your product's value innovation.
+* Mixing and matching disparate feature sets is one of value innovation patterns.
+* You'll catch clues by looking at all the details and figuring out how to use them for you product.
+* Ideally, you will improve on the concepts, taking them up a notch on the design ladder for your product.
 
