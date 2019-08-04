@@ -75,6 +75,8 @@ Your future customers need to want to choose your solution over any other becaus
 * You can avoid creating something totally new and make the UI more complicated.
 * You can deal with insane stakeholders or a HIPPO.
 
+![feature comparison example from book](.gitbook/assets/image%20%2812%29.png)
+
 ### STORYBOARD THE VALUE INNOVATION
 
 #### Three steps to storyboarding value innovation

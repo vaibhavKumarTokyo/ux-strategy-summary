@@ -13,7 +13,7 @@
 
 > two most common ways to achieve a competitive advantage: `cost leadership` and `differentiation`
 
-![Cost-Price-WillingnessToPay](.gitbook/assets/image%20%2812%29.png)
+![Cost-Price-WillingnessToPay](.gitbook/assets/image%20%2813%29.png)
 
 ### Business Strategy: conclusion
 
