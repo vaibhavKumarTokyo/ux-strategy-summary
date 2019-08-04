@@ -39,22 +39,22 @@ Test the hypothesis based on measurable results---Reject or accept your original
 ### How to Experiment:
 
 * **Online Campaign:** Increase and track conversion rate
-  * * Goal: Measure if potential customers take action
-    * Convert click to like to customers 
-    * Example: Dropbox screencase
+  * Goal: Measure if potential customers take action
+  * Convert click to like to customers 
+  * Example: Dropbox screencase
 * **Concierge MVP** \(No interface backend-Save Resources to build\)
-* * * Manually simulate a complex digital product--An attempt to simulate an aspect of the customers experience without the interface and to do it with as little friction as possible
-    * For example: Jared manually facilitate the trade by email or coordinate time for them to meet up---Help both parties with teh swap lohisitics
+  * Manually simulate a complex digital product--An attempt to simulate an aspect of the customers experience without the interface and to do it with as little friction as possible
+  * For example: Jared manually facilitate the trade by email or coordinate time for them to meet up---Help both parties with the swap logistics
 
 ## OZ Paradigm
 
-Create simulations of new technologies to test out innovatiive concepts \(to the users who have little knowledge of computer\) is core to gaining early validation.
+Create simulations of new technologies to test out innovative concepts \(to the users who have little knowledge of computer\) is core to gaining early validation.
 
 ### Test Product/Market Fit by using Prototypes
 
 #### Goal of prototype: 
 
-avoid coding and designing until you have true validation that your solution is desireed and can be sustained by your hypothetical customer segment.
+avoid coding and designing until you have true validation that your solution is desired and can be sustained by your hypothetical customer segment.
 
 #### Types of prototype:
 
