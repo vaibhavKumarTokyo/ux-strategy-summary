@@ -67,18 +67,20 @@ Use your storyboard as the starting point for creating a solution prototype
 
 > Note: Make sure it ie easy to use and understand for users, no imaginations
 
-### 3 Steps to design having the solution prototype
+### 3 Steps to design the solution prototype
 
 **Purpose**
 
 Force your team to create the **minimum amount of screens** necessary to demonstrate the **key experience** of the interface, the **value proposition**, and a sneak peak of the **potential business model** of the product.
 
-**How:** Copy the interface and artwork from other websites and type set the content
+**How?**
 
-#### What does the solution prototype include
+Copy the interface and artwork from other websites and type set the content
+
+#### What does the solution prototype include?
 
 1. Setup
-2. Key UX 1 \(1-3 screens\) :shows the crucial interactions that show value innovation
+2. Key UX 1 \(1-3 screens\): shows the crucial interactions that show value innovation
 3. Key UX 2 \(1-3 screens\): shows the crucial interactions that show value innovation
 4. Pricing strategy: shows the cost of the app, monthly fees, package costs and so on
 
