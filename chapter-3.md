@@ -10,7 +10,7 @@ Most startups fail because the market doesn't necessarily need the product.
 
 This is the magical power of the product.  ****That is the specific customer segment and their need.
 
-![Visualization of value proposition](.gitbook/assets/image%20%2812%29.png)
+![Visualization of value proposition](.gitbook/assets/image%20%2814%29.png)
 
 ## **Five Steps to reach Product/Solution Fit**
 

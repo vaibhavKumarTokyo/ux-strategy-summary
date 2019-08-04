@@ -96,6 +96,10 @@ Your future customers need to want to choose your solution over any other becaus
 * Now, review your storyboard.
 * Keep the captions brief and in lower cases--less than two lines.
 
+![Storyboarding example from book - guest experience](.gitbook/assets/image%20%288%29.png)
+
+![Storyboarding example from book - host experience](.gitbook/assets/image%20%287%29.png)
+
 ## Business Models and Value Innovation
 
 * Value innovation is a competitive advantage that ultimately combines cost leadership with differentiation.
