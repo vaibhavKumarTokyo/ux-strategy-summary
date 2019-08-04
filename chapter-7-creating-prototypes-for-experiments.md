@@ -4,7 +4,7 @@
 
 > The premature outlay of huge amounts of money in pursuit of the wrong strategy is the thing to avoid. You need to have an experiemental mindset. --Clayton Christensen
 
-### Principle:
+### Principle
 
 * Run experiment **as soon as possible**
 * Use **less money**--Concierge 
@@ -36,7 +36,7 @@ Test the hypothesis based on measurable results---Reject or accept your original
 * **Continual** test UX and value proposition
 * **Shrink** your product \(Eg, 5 steps to 3 steps; User can use a service without signing up; etc\)
 
-### How to Experiment:
+### How to Experiment
 
 * **Online Campaign:** Increase and track conversion rate
   * Goal: Measure if potential customers take action
@@ -52,42 +52,42 @@ Test the hypothesis based on measurable results---Reject or accept your original
 
 ## Test Product/Market Fit by using Prototypes
 
-#### Goal of prototype: 
+### Goal of prototype
 
 avoid coding and designing until you have true validation that your solution is desired and can be sustained by your hypothetical customer segment.
 
-#### Types of prototype:
+### Types of prototype
 
 Low-fidelity paper prototype
 
 High-fidelity prototype
 
-#### How
+### How
 
 Use your storyboard as the starting point for creating a solution prototype 
 
 Note: Make sure it ie easy to use and understand for users, no imaginations
 
-#### 3 Steps to design having the solution prototype
+### 3 Steps to design having the solution prototype
 
-**Purpose:**
+**Purpose**
 
-Force yout team to create the **minimum amount of screens** necessary to demonstrate the **key experience** of the interface, the **value proposition**, and a sneak peak of the **potential business model** of the product.
+Force your team to create the **minimum amount of screens** necessary to demonstrate the **key experience** of the interface, the **value proposition**, and a sneak peak of the **potential business model** of the product.
 
 **How:** Copy the interface and artwork from other websites and type set the content
 
 #### What does the solution prototype include
 
 1. Setup
-2. Key UX 1 \(1-3 screens\) :shows the crucial interations that show value innovation
-3. Key UX 2 \(1-3 screens\): shows the cruicial interations that show value innovation
-4. Pricing strategy: shows the cose of the app, monthly fees, package costs and so on
+2. Key UX 1 \(1-3 screens\) :shows the crucial interactions that show value innovation
+3. Key UX 2 \(1-3 screens\): shows the crucial interactions that show value innovation
+4. Pricing strategy: shows the cost of the app, monthly fees, package costs and so on
 
 #### Step 1
 
 Outline of screens that include one or two key experiences.
 
------Does the product solve the customer's problem?
+> Does the product solve the customer's problem?
 
 Example:
 
@@ -102,35 +102,26 @@ Example:
 
 #### Step 2 
 
-Start mashing up the images that tell the story
-
-Make it seem real
-
-How:
-
-Borrow images from your competitors and influencers
-
-Example: Page 162~
+* Start mashing up the images that tell the story
+* Make it seem real
+* How:
+  * Borrow images from your competitors and influencer
+  * Example: Page 162~
 
 #### Step 3 
 
-Paste all the screenshots into the presentation tool
-
-Use Google Presentations 
-
+* Paste all the screenshots into the presentation tool
+* Use Google Presentations 
 * Easy simultaneous collaboration
 * Displays a narrative  linearity of the key experience
 * Show it to customers in a easy-to-understand way \(PDF\)
 
 ### Solution prototype reality check
 
-Ask questions regarding the prototype's **Feasibility** and S**ustainability**
-
-Is it easy to scale?
-
-How to get the initial inventory?
-
-Photography quality
+* Ask questions regarding the prototype's **Feasibility** and S**ustainability**
+* Is it easy to scale?
+* How to get the initial inventory?
+* Photography quality
 
 ## **Recap**
 
