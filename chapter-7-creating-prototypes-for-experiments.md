@@ -46,11 +46,11 @@ Test the hypothesis based on measurable results---Reject or accept your original
   * Manually simulate a complex digital product--An attempt to simulate an aspect of the customers experience without the interface and to do it with as little friction as possible
   * For example: Jared manually facilitate the trade by email or coordinate time for them to meet up---Help both parties with the swap logistics
 
-## OZ Paradigm
+> ### OZ Paradigm
+>
+> Create simulations of new technologies to test out innovative concepts \(to the users who have little knowledge of computer\) is core to gaining early validation
 
-Create simulations of new technologies to test out innovative concepts \(to the users who have little knowledge of computer\) is core to gaining early validation.
-
-### Test Product/Market Fit by using Prototypes
+## Test Product/Market Fit by using Prototypes
 
 #### Goal of prototype: 
 
