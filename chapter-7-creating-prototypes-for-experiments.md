@@ -58,15 +58,14 @@ avoid coding and designing until you have true validation that your solution is 
 
 ### Types of prototype
 
-Low-fidelity paper prototype
-
-High-fidelity prototype
+* Low-fidelity paper prototype
+* High-fidelity prototype
 
 ### How
 
 Use your storyboard as the starting point for creating a solution prototype 
 
-Note: Make sure it ie easy to use and understand for users, no imaginations
+> Note: Make sure it ie easy to use and understand for users, no imaginations
 
 ### 3 Steps to design having the solution prototype
 
