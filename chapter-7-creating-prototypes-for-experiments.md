@@ -128,41 +128,14 @@ Ask questions regarding the prototype's **Feasibility** and S**ustainability**
 
 Is it easy to scale?
 
-How to get the initail inventory?
+How to get the initial inventory?
 
 Photography quality
 
-**Recap**
+## **Recap**
 
 * Do not burn time or money or efforts on a product no one may want to use.
 * Concierge the experience of a new product
 * Most experiments fail
 * Collaborate and discuss after experiment 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* * * * 
-
-
-* * 
-
-
-
-
-
-
-
-
-* 
