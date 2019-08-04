@@ -64,7 +64,7 @@ Your future customers need to want to choose your solution over any other becaus
 * Research and identify multiple \(three to five\) instances of a similar user feature and put all those references into once document. This way, you can compare different approaches to a single UX problem.
 * A feature comparison can be very helpful to identify opportunities for value innovation. It takes all the puzzle pieces out of the box and puts them onto the table in plain sight.
 * Then, you pick out the best pieces and components to build a new interaction pattern.
-* You do whatever is necessary to poach elements and them stich them together a superior UX.
+* You do whatever is necessary to poach elements and them stitch them together a superior UX.
 
 #### Benefits of feature comparisons
 
@@ -93,7 +93,7 @@ Your future customers need to want to choose your solution over any other becaus
 * Choose a format that is fast and easy for you and your team to pull your storyboard together.
 * Create, draw, or gather all your images and make certain that they are the same approximate aspect ratio and that they fit nicely onto your canvas.
 
-#### Step 3: Lay out your storyboard on a canvas, add captions below each panel.
+#### Step 3: Layout your storyboard on a canvas, add captions below each panel.
 
 * Now, review your storyboard.
 * Keep the captions brief and in lower cases--less than two lines.
@@ -110,12 +110,12 @@ Your future customers need to want to choose your solution over any other becaus
 #### eHarmony
 
 * Its business model is based on a monthly subscription service.
-* Its value proposition relies on its matching algorithm which focuses on the core traits of its clients, such as agreeableness, spirituality, and exroversion.
+* Its value proposition relies on its matching algorithm which focuses on the core traits of its clients, such as agreeableness, spirituality, and extroversion.
 
 #### OkCupid
 
 * Its business model is free to customers, and over time, its revenue stream evolved from paid advertising to a premium feature service.
-* Its value proposition is intrinsically wrapped up in a powerful by which users can filter matches based on qualitative and quantitativbe data points.
+* Its value proposition is intrinsically wrapped up in a powerful by which users can filter matches based on qualitative and quantitative data points.
 
 #### Tinder
 
