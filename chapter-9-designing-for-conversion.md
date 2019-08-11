@@ -60,7 +60,16 @@ Typical digital product's acquisition funnel example:
   * actions, features and functionalities that needs to be integrated for that level of funnel. 
   * Example: twitter, fb integration
 * **Validated Learning**
-  * what percentage of users are visiting and reaching various stages of funnel
+  * what percentage of users are visiting and reaching various stages of funnelA
+
+## Use cases
+
+* **For existing solution**
+  * improving user experience
+  * increase customer base
+* **For new value proposition**
+  * to determine if value proposition needs a pivot
+  * to acquire leads for a value proposition
 
 ## Recap
 
