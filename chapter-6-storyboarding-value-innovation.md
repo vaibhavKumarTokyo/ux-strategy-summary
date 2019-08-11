@@ -75,7 +75,7 @@ Your future customers need to want to choose your solution over any other becaus
 * You can avoid creating something totally new and make the UI more complicated.
 * You can deal with insane stakeholders or a HIPPO.
 
-![feature comparison example from book](.gitbook/assets/image%20%2812%29.png)
+![feature comparison example from book](.gitbook/assets/image%20%2816%29.png)
 
 ### STORYBOARD THE VALUE INNOVATION
 
@@ -98,9 +98,9 @@ Your future customers need to want to choose your solution over any other becaus
 * Now, review your storyboard.
 * Keep the captions brief and in lower cases--less than two lines.
 
-![Storyboarding example from book - guest experience](.gitbook/assets/image%20%288%29.png)
+![Storyboarding example from book - guest experience](.gitbook/assets/image%20%2811%29.png)
 
-![Storyboarding example from book - host experience](.gitbook/assets/image%20%287%29.png)
+![Storyboarding example from book - host experience](.gitbook/assets/image%20%289%29.png)
 
 ## Business Models and Value Innovation
 

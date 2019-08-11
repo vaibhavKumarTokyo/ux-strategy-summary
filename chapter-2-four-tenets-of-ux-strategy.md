@@ -13,7 +13,7 @@
 
 > two most common ways to achieve a competitive advantage: `cost leadership` and `differentiation`
 
-![Cost-Price-WillingnessToPay](.gitbook/assets/image%20%2813%29.png)
+![Cost-Price-WillingnessToPay](.gitbook/assets/image%20%2817%29.png)
 
 ### Business Strategy: conclusion
 
@@ -21,7 +21,7 @@
 * it’s about being able to research what’s out there, analyze the opportunities, run structured experiments, fail, learn, and iterate until we devise something of value that people truly want
 * as the product scales and the market evolves, the business strategy must be nimble
 
-![Intentional-strategy v/s emergent-strategy](.gitbook/assets/image%20%284%29.png)
+![Intentional-strategy v/s emergent-strategy](.gitbook/assets/image%20%286%29.png)
 
 ## UX strategy framework: Value Innovation
 
