@@ -10,6 +10,7 @@
 * [Chapter 7: Creating Prototypes for Experiments](chapter-7-creating-prototypes-for-experiments.md)
 * [Chapter 8: Conducting Guerrilla User Research](chapter-8-conducting-guerrilla-user-research.md)
 * [Chapter 9: Designing for Conversion](chapter-9-designing-for-conversion.md)
-* [Chapter 10: Strategists in the Wild](chapter-10-strategists-in-the-wild.md)
+* [Chapter 10: Strategists in the Wild](chapter-10-strategists-in-the-wild/README.md)
+  * [Untitled](chapter-10-strategists-in-the-wild/untitled.md)
 * [Extra: UX Strategy workshop notes](summary.md)
 

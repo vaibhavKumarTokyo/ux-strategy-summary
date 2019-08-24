@@ -4,7 +4,7 @@ description: 'book summary per chapters compiled by Bundo, Rui and Vaibhav'
 
 # UX Strategy: How to Devise Innovative Digital Products that People Want \(Jaime Levy\)
 
-Url: https://knowledge-quisymenu.gitbook.io/ux-strategy-summary/
+Url: [https://knowledge-quisymenu.gitbook.io/ux-strategy-summary/](https://knowledge-quisymenu.gitbook.io/ux-strategy-summary/)
 
 * [Chapter 1: What is UX Strategy?](chapter-1-what-is-ux-strategy.md)
 * [Chapter 2: Four tenets of UX Strategy](chapter-2-four-tenets-of-ux-strategy.md)
@@ -15,10 +15,6 @@ Url: https://knowledge-quisymenu.gitbook.io/ux-strategy-summary/
 * [Chapter 7: Creating Prototypes for Experiments](chapter-7-creating-prototypes-for-experiments.md)
 * [Chapter 8: Conducting Guerrilla User Research](chapter-8-conducting-guerrilla-user-research.md)
 * [Chapter 9: Designing for Conversion](chapter-9-designing-for-conversion.md)
-* [Chapter 10: Strategists in the Wild](chapter-10-strategists-in-the-wild.md)
+* [Chapter 10: Strategists in the Wild](chapter-10-strategists-in-the-wild/)
 * [Extra: UX Strategy workshop notes](summary.md)
-
-
-
-
 
