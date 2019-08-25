@@ -11,6 +11,6 @@
 * [Chapter 8: Conducting Guerrilla User Research](chapter-8-conducting-guerrilla-user-research.md)
 * [Chapter 9: Designing for Conversion](chapter-9-designing-for-conversion.md)
 * [Chapter 10: Strategists in the Wild](chapter-10-strategists-in-the-wild/README.md)
-  * [Untitled](chapter-10-strategists-in-the-wild/untitled.md)
+  * [Proposal: Personal Presentation Trainer](chapter-10-strategists-in-the-wild/untitled.md)
 * [Extra: UX Strategy workshop notes](summary.md)
 
