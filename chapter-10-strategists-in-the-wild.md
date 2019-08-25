@@ -14,7 +14,7 @@ Interview based on 10 questions
 * Experience strategy \(user+business strategy\), talk with different people \(business stakeholders, sales, marketing and engineering\) and understand the various touch points
 * Strategy and product management to make sure that user and the user experience was appropriately beneficial;  **UX strategy is just a temporary artifact, it needs to go deeper into customer understanding.**
 * More of a business strategist who works well with UX strategist and designer \(think everything through granular level\)
-* Essential component of product definition. Strategist: Higher-level perspective and a certain of confidence about where the world is headed; Be specific about what you want engineers to do. UX strategy spans across a number of previously siloed discipline and bridges what could be seen as really disparate and sitinct silos, design, experience, and business.
+* Essential component of product definition. Strategist: Higher-level perspective and a certain of confidence about where the world is headed; Be specific about what you want engineers to do. UX strategy spans across a number of previously siloed discipline and bridges what could be seen as really disparate and distinct silos, design, experience, and business.
 
      **3. How did you learn** about business strategy?
 
