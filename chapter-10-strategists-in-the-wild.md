@@ -36,7 +36,9 @@ Interview summary based on 10 questions:
 * Trend forecasting; Silicon Valley has little interest in the word strategy since it means a lot of chin stroking and not a lot of shipping
 * Agency: hard to evaluate the effect of the UX strategy
 * Create the first examples of what products on these new emerging platforms
-* 
+
+
+
 ## What are some of the **challenges** of conducting strategy in different work environments\(for example, startups versus agencies versus enterprises\)
 
 * **People management** and **organizational politics** 
@@ -51,12 +53,12 @@ Interview summary based on 10 questions:
 * A number of tests with focus groups at different stages if development, from ideation to prototypes to the final product. \(get specific feedbacks from customers: why they like or dislike the app\)
 * Test in different places to see if it resonates broadly
 
-8. What is your **secret weapon** or go-to technique for devising strategies or building consensus on a shared vision?
+## What is your **secret weapon** or go-to technique for devising strategies or building consensus on a shared vision?
 
 * Experience map to help focus on the customer and service map which captures how the business services the customer at each touch point
 * Doing right research, talking to the right kinds of folks, ask the right questions and observing the right kinds of behavior;
 * Ecosystem map to analyze your competitors to find inspirations in short and long term
-* Focus on soloving key business problems and identify the nascent opportunities and come up with solutions
+* Focus on solving key business problems and identify the nascent opportunities and come up with solutions
 
 ## What is a **business case or anecdotal story** that you can share that walk us through the steps you have to go through when conducting strategy specifically for an innovation product?
 
